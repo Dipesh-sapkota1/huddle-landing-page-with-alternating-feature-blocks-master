@@ -242,6 +242,9 @@
     .container{
         padding: 0 2rem;
     }
+    .main-header{
+        background-image: url(./images/bg-hero-desktop.svg);
+    }
     .banner{
         padding-top: 3rem;
     }
